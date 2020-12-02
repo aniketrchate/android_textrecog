@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextRcog</string>
+    <string name="import_gallery">Import From Gallery</string>
+    <string name="Placeholder_Textview">your text is appear here !</string>
+</resources>
